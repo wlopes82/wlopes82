@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @wlopes82
 - 👀 I’m interested in learning new things and also books, movies and Tv shows.
-- 🌱 I’m currently learning my way around coding. Or at least I hope I can do it.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning my way around coding.
+
 
 <!---
 wlopes82/wlopes82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
